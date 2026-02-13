@@ -7,11 +7,10 @@
 
 <br clear="right"/>
 
-
 ---
 
 ### 👩‍💻 About
-🎓 **B.E CSE (2023–2027)** | 💼 **Web Dev Intern** | 🚀 **Project Builder** | 🌱 **Continuous Learner**
+🎓 **B.E CSE (2023–2027)** | 💼 **Web Dev Intern** | 🚀 **Project Builder** | 🌱 **Continuous Learner**
 
 ---
 
@@ -52,13 +51,13 @@
 ---
 
 ### 📌 Projects
-🫁 **BreatheBand** | 🤖 **AI Chat App** | 🫀 **Organ Donation System**  
-🏫 **Discipline System** | 🎮 **Tic-Tac-Toe** | 📂 **Auto Sorter** | 🛒 **Grocery System**
+🫁 **BreatheBand** | 🤖 **AI Chat App** | 🫀 **Organ Donation System**  
+🏫 **Discipline System** | 🎮 **Tic-Tac-Toe** | 📂 **Auto Sorter** | 🛒 **Grocery System**
 
 ---
 
 ### 🏆 Achievements
-🥉 **Metaverse – 3rd Prize** | 💻 **Hackathon Participant** | 🏫 **Campus System Developer**
+🥉 **Metaverse – 3rd Prize** | 💻 **Hackathon Participant** | 🏫 **Campus System Developer**
 
 ---
 
