@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yjkybm5jc2FvZTd4YzUyc2ZjYTF4YXUxOHlnNHh1NGZibm14YmtqcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="700"/>
 </p>
 ---
 
@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
----
 
 ### 🤝 Soft Skills
 <p>
