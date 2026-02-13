@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nishanthi</h1>
-<h3 align="center">
-  💻 Aspiring Full-Stack Developer | 🌐 Java & Web Dev Enthusiast | 🇮🇳 From India
-</h3>
+<table>
+  <tr>
+    <td width="100%" align="left">
+      <h1>Hi 👋, I'm Nishanthi</h1>
+      <h3>💻 CSE Student | 🌐 Full-Stack Developer | 🎯 Future Software Engineer | 🤖 Tech Enthusiast</h3>
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;CSE+Student;Problem+Solver;Continuous+Learner" />
+      </p>
+    </td>
+    <td width="40%" align="right">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yjkybm5jc2FvZTd4YzUyc2ZjYTF4YXUxOHlnNHh1NGZibm14YmtqcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yjkybm5jc2FvZTd4YzUyc2ZjYTF4YXUxOHlnNHh1NGZibm14YmtqcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="700"/>
-</p>
 ---
 
 ### 👩‍💻 About
